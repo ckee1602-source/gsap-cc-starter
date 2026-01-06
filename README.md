@@ -24,5 +24,8 @@
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=000000)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
 ![Vite](https://img.shields.io/badge/Vite-1B1B1F?style=for-the-badge&logo=vite&logoColor=646CFF)
-
-
+## Screenshots 
+### Home Page
+<img width="1910" height="915" alt="screenshot-1767710325633" src="https://github.com/user-attachments/assets/5ecb5bf8-8450-4a50-bb99-3ed66065fbd6" />
+### About Us
+<img width="1910" height="915" alt="screenshot-1767710408989" src="https://github.com/user-attachments/assets/f8c10bb4-b3fe-4530-8cf9-13c498046d5e" />
