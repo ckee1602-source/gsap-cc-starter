@@ -27,5 +27,16 @@
 ## Screenshots 
 ### Home Page
 <img width="1910" height="915" alt="screenshot-1767710325633" src="https://github.com/user-attachments/assets/5ecb5bf8-8450-4a50-bb99-3ed66065fbd6" />
+
 ### About Us
 <img width="1910" height="915" alt="screenshot-1767710408989" src="https://github.com/user-attachments/assets/f8c10bb4-b3fe-4530-8cf9-13c498046d5e" />
+
+### Cocktails Page
+<img width="1910" height="915" alt="screenshot-1767710446281" src="https://github.com/user-attachments/assets/b2f9ac76-2a50-48fe-b372-0a9d13232486" />
+
+<img width="1910" height="915" alt="screenshot-1767713193504" src="https://github.com/user-attachments/assets/05e77ff6-9b5b-4ec3-bd03-ecf23e95b7fa" />
+
+<img width="1910" height="915" alt="screenshot-1767717479582" src="https://github.com/user-attachments/assets/72609b01-2309-4893-b68d-b2fb6e8f84ec" />
+
+### Contact Page 
+<img width="1910" height="915" alt="screenshot-1767713231710" src="https://github.com/user-attachments/assets/6fca00b9-824a-4d6c-9b60-3529269ff751" />
