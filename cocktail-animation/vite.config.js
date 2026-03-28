@@ -5,22 +5,13 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [
-    react(), 
-    tailwindcss()
+    react(),
+    tailwindcss(),
   ],
   css: {
-    transformer: 'postcss',
-    lightningcss: {
-      targets: {
-        safari: 15
-      }
-    }
+    transformer: 'postcss', // This forces Vite to bypass the LightningCSS binary requirement
   },
-  build: {
-    cssMinify: 'lightningcss'
-  }
 })
-
 
 /*import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
